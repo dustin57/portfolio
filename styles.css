@@ -530,12 +530,12 @@ video {
   position: fixed;
   top: 5px;
   left: 5px;
-  font-size: 3em;
+  font-size: 2em;
   border: solid 0.1rem #474a4d;
   background: #FFF;
-  width: 0.9em;
-  height: 0.9em;
-  line-height: 0.7em;
+  width: 1.5em;
+  height: 1.5em;
+  line-height: 1.5em;
   cursor: pointer;
   user-select: none;
   color: #474a4d;
