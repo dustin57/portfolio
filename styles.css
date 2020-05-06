@@ -30,8 +30,7 @@ html {
 
 body {
   text-align: center;
-  /* font-family: 'Comic Neue', cursive, 'メイリオ', 'meiryo', sans-serif; */
-  font-family: 'Cinema Letter';
+  font-family: 'モアリア R', 'メイリオ', 'meiryo', sans-serif;
   color: #474a4d;
   font-size: 1.2rem;
   line-height: 1.5;
@@ -165,7 +164,6 @@ header a:hover {
   height: 60vw;
   color: #FFF;
   letter-spacing: 7px;
-  font-family: 'Josefin Sans', sans-serif;
   position: relative;
 }
 
