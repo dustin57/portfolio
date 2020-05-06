@@ -31,6 +31,7 @@ html {
 body {
   text-align: center;
   font-family: '丸フォーク R', 'メイリオ', 'meiryo', sans-serif;
+  font-weight: lighter;
   color: #474a4d;
   font-size: 1.2rem;
   line-height: 1.5;
@@ -177,6 +178,7 @@ header a:hover {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .profile {
